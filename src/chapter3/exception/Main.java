@@ -1,4 +1,4 @@
-package quest.exception;
+package chapter3.exception;
 
 public class Main {
 

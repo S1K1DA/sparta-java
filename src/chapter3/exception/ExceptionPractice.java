@@ -1,6 +1,4 @@
-package quest.exception;
-
-import com.sun.xml.internal.ws.api.model.CheckedException;
+package chapter3.exception;
 
 public class ExceptionPractice {
 
